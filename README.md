@@ -1,2 +1,2 @@
 # cat
-Cat program similar to gnu project cat program in linux core utilities 
+Cat program similar to gnu coreutils cat program for unix-like operating systems
